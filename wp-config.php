@@ -16,6 +16,7 @@
  * @link https://codex.wordpress.org/Editing_wp-config.php
  *
  * @package WordPress
+ * adding text to see how to add  this via git
  */
 
 // ** MySQL settings - You can get this info from your web host ** //
