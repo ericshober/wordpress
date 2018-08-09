@@ -17,6 +17,7 @@
  *
  * @package WordPress
  * adding text to see how to add  this via git
+ * adding a line from home to confirm that this is working
  */
 
 // ** MySQL settings - You can get this info from your web host ** //
